@@ -18,3 +18,6 @@ App Demonstration Video link : [Click here](https://github.com/sultanbepari/Andr
 ![](https://github.com/sultanbepari/Android-Project-Using-Kotlin/blob/main/ImagesAndVideos/Dashboard2.jpg)
 
 ![](https://github.com/sultanbepari/Android-Project-Using-Kotlin/blob/main/ImagesAndVideos/Dashboard3.jpg)
+
+# App Icon
+![](https://github.com/sultanbepari/Android-Project-Using-Kotlin/blob/main/ImagesAndVideos/app_icon.jpg)
